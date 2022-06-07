@@ -15,7 +15,10 @@ Play it!\
 Hope you like it\
 \
 \
-Songs from:
+Songs\
+hanako - sad boy with a laptop\
+boba beach - grypyret\
+\
 Here some screenshots\
 \
 ![Captura](https://user-images.githubusercontent.com/106926318/172473700-dec72ea7-acd5-49d3-8649-1bccb29d39e2.PNG)
